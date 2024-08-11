@@ -1,0 +1,24 @@
+{
+  "raw_response": {
+    "alternative": [
+      {
+        "transcript": "gelombang panas naikkan harga gandum saham kan cuman buat berpotensi naik infestasi pangan berbahan dasar gandum akan berpeluang besar mungkin bila kau besar dan manis",
+        "confidence": 0.90565604
+      },
+      {
+        "transcript": "gelombang panas naikkan harga gandum saham kan cuman buat berpotensi naik infestasi pangan berbahan dasar gandum akan berpeluang besar mungkin bila kau besar manis"
+      },
+      {
+        "transcript": "gelombang panas naikkan harga gandum saham kan cuman buat berpotensi naik infestasi pangan berbahan dasar gandum akan berpeluang besar mungkin bila kau besar"
+      },
+      {
+        "transcript": "gelombang panas naikkan harga gandum saham kan cuman buat berpotensi naik infestasi pangan berbahan dasar gandum atau berpeluang besar mungkin bila kau besar dan manis"
+      },
+      {
+        "transcript": "gelombang panas naikkan harga gandum saham konsumen potensi naik infestasi pangan berbahan dasar gandum akan berpeluang besar mungkin bila kau besar dan manis"
+      }
+    ],
+    "final": true
+  },
+  "translated_text": "Heat Waves Raise the price of wheat shares, right for the potential to ride food infestation made from wheat will have a great chance if you are big and sweet"
+}
